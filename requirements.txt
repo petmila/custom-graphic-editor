@@ -1,0 +1,4 @@
+PyQt5~=5.15.10
+numpy~=1.26.4
+matplotlib~=3.9.0
+setuptools~=57.0.0

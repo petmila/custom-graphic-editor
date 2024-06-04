@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools >= 61.0.0", "PyOt5"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "custom-graphic-editor"
+version = "0.1"
+authors = [
+  { name="petmila", email="mila-petrenko@inbox.ru" },
+]
+description = "A package for editing images"
+requires-python = ">=3.11"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[tool.setuptools]
+py-modules = []
